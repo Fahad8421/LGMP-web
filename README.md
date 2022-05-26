@@ -16,4 +16,7 @@
   <i><b>Create a simple Calculator using HTML, CSS, JS</b></i><br><br>
 <b>Tech Stack:<b> HTML, CSS and Javascript.<br><br>
 <b>Code Editor:<b> Visual Studio Code<br><br><br>
-  <img src ="" alt ="calci">
+  <img src ="https://github.com/Fahad8421/LGMP-web/blob/main/Task2/img1.PNG" alt ="calci">
+  <br>
+  
+  <img src "https://github.com/Fahad8421/LGMP-web/blob/main/Task2/img2.PNG" alt="calci1">
